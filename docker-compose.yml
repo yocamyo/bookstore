@@ -12,6 +12,7 @@ services:
     environment:
       - "DJANGO_SECRET_KEY=django-insecure-xfqfvbh(i5-mb4jm*ioes#k(lfouotv1x%%x2a7wnj3zzsd5vp"
       - "DJANGO_DEBUG=True"
+      - "SENDGRID_API_KEY=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"
   db:
     image: postgres:13
     volumes:
