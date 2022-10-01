@@ -10,3 +10,4 @@ django-ses==3.1.2
 django-ses[events]
 django-sendgrid-v5
 pillow==9.0.1
+django-debug-toolbar==3.4.0
