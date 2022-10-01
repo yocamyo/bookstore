@@ -9,3 +9,4 @@ environs[django]==9.5.0
 django-ses==3.1.2
 django-ses[events]
 django-sendgrid-v5
+pillow==9.0.1
